@@ -1,0 +1,214 @@
+{
+  "randomLoot":["items"],
+  "items":[
+    {
+      "id":"Potion of greater healing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of fire breath",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of resistance",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ammunition , +1",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of animal friendship",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of hill giant strength",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of growth",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of water breathing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spell scroll (2nd level)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spell scroll (3rd leve l)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bag of holding",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Keoghtom's ointment",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Oil of slipperiness",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Dust of disappearance",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Dust of dryness",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Dust of sneezing and choking",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Elemental gem",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Philter of love",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Alchemy jug",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cap of water breathing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cloak of the manta ray",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Driftglobe",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Goggles of night",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Helm of comprehending languages",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Immovable rod",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Lantern of revealing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Mariner's armor",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Mithral armor",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of poison",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of swimming",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Robe of useful items",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Rope of climbing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Saddle of the cavalier",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of magic detection",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of secrets",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

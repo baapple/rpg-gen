@@ -1,0 +1,14 @@
+<p>This is the partial for the treasure generator.</p>
+
+<select ng-model="$ctrl.selectedTable" ng-options="table as table.name for table in $ctrl.tables"></select>
+<br />
+
+<button ng-click="$ctrl.startGeneration()">Generate Treasure!</button>
+
+<div>
+  <ul>
+    <li ng-repeat="treasure in $ctrl.treasures">
+      <span>{{treasure.amount}}</span> <span>{{treasure.id}}</span>
+    </li>
+  </ul>
+</div>

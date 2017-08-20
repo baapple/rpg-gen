@@ -1,0 +1,33 @@
+[
+  {
+    "id":"hoard-0-4",
+    "name":"Treasure Hoard: 0-4",
+    "type":"hoard",
+    "minCR":0,
+    "maxCR":4
+  },
+
+  {
+    "id":"hoard-5-10",
+    "name":"Treasure Hoard: 5-10",
+    "type":"hoard",
+    "minCR":5,
+    "maxCR":10
+  },
+
+  {
+    "id":"hoard-11-16",
+    "name":"Treasure Hoard: 11-16",
+    "type":"hoard",
+    "minCR":11,
+    "maxCR":16
+  },
+
+  {
+    "id":"hoard-17",
+    "name":"Treasure Hoard: 17+",
+    "type":"hoard",
+    "minCR":17,
+    "maxCR":99
+  }
+]

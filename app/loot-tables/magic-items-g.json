@@ -1,0 +1,532 @@
+{
+  "randomLoot":["items"],
+  "items":[
+    {
+      "id":"Weapon, +2",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Figurine of wondrous power (roll d8)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Adamantine armor (breastplate)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Adamantine armor (splint)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Amulet of health",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor of vulnerability",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Arrow-catching shield",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Belt of dwarvenkind",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Belt of hill giant strength",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Berserker axe",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Boots of levitation",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Boots of speed",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bowl of commanding water elementals",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bracers of defense",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Brazier of commanding fire elementals",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cape of the mountebank",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Censer of controlling air elementals",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor, +1 chain mail",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor of resistance (chain mail)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor,+ 1 chain shirt",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor of resistance (chain shirt)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cloak of displacement",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cloak of the bat",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cube of force",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Daern's instant fortress",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Dagger of venom",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Dimensional shackles",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Dragon slayer",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Elven chain",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Flame tongue",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gem of seeing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Giant slayer",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Clamoured studded leather",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Helm of teleportation",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Horn of blasting",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Horn of Valhalla (silver or brass)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Instrument of the bards (Canaith mandolin)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Instrument ofthe bards (Cii lyre)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"loun stone (awareness)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"loun stone (protection)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"loun stone (reserve)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"loun stone (sustenance)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Iron bands of Bilarro",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor, + 1 leather",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor of resistance (leather)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Mace of disruption",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Mace of smiting",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Mace of terror",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Mantle of spell resistance",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Necklace of prayer beads",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Periapt of proof against poison",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of animal influence",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of evasion",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of feather falling",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of free action",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of protection",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of resistance",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of spell storing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of the ram",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of X-ray vision",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Robe of eyes",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Rod of rulership",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Rod of the pact keeper, +2",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Rope of entanglement",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor, +1 scale mail",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Armor of resistance (scale mail)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Shield, +2",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Shield of missile attraction",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Staff of charming",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Staff of healing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Staff of swarming insects",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Staff of the woodlands",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Staff of withering",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Stone of controlling earth elementals",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Sun blade",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Sword of life stealing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Sword of wounding",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Tentacle rod",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Vicious weapon",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of binding",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of enemy detection",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of fear",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of fireballs",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of lightning bolts",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of paralysis",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of the war mage, +2",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of wonder",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wings of flying",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

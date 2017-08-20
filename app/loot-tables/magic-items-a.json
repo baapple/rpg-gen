@@ -1,0 +1,52 @@
+{
+  "randomLoot":["items"],
+  "items":[
+    {
+      "id":"Potion of healing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spell scroll (cantrip)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of climbin",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spell scroll (1st level)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spell scroll (2nd level)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of greater healing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bag of holding",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Driftglobe",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

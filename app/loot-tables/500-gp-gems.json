@@ -1,0 +1,41 @@
+{
+  "randomLoot":["gems"],
+  "gems":[
+    {
+      "id":"Alexandrite (transparent dark green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Aquamarine (transparent pale blue-green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Black pearl (opaque pure black)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Blue spinel (transparent deep blue)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Peridot (transparent rich olive green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Topaz (transparent golden yellow)",
+      "type":"item",
+      "amount":1
+    }
+
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "randomLoot":["gems"],
+  "gems":[
+    {
+      "id":"Black sapphire (translucent lustrous black with glowing highlights)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Diamond (transparent blue-white , canary, pink, brown, or blue)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Jacinth (transparent fiery orange)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ruby (transparent clear red to deep crimson)",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

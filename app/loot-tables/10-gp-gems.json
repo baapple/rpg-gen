@@ -1,0 +1,76 @@
+{
+  "randomLoot":["gems"],
+  "gems":[
+    {
+      "id":"Azurite (opaque mottled deep blue)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Banded agate (translucent striped brown, blue, white, or red)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Blue quartz (transparent pale blue)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Eye agate (translucent circles of gray, white, brown , blue , or green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Hematite (opaque gray-black)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Lapis lazuli (opaque light and dark blue with yellow flecks)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Malachite (opaque striated light and dark green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Moss agate (translucent pink or yellow-white with mossy gray or green markings)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Obsidian (opaque black)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Rhodochrosite (opaque light pink)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Tiger eye (translucent brown with golden center)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Turquoise (opaque light blue-green)",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

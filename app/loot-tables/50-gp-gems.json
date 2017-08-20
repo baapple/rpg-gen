@@ -1,0 +1,76 @@
+{
+  "randomLoot":["gems"],
+  "gems":[
+    {
+      "id":"Bloodstone (opaque dark gray with red flecks)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Carnelian (opaque orange to red-brown)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Chalcedony (opaque white)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Chrysoprase (translucent green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Citrine (transparent pale yellow-brown)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Jasper (opaque blue, black, or brown)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Moonstone (translucent white with pale blue glow)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Onyx (opaque bands of black and white, or pure black or white)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Quartz (transparent white, smoky gray, or yellow)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Sardonyx (opaque bands of red and white)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Star rose quartz (translucent rosy stone with white star-shaped center)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Zircon (transparent pale blue-green)",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

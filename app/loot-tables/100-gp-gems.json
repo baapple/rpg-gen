@@ -1,0 +1,65 @@
+{
+  "randomLoot":["gems"],
+  "gems":[
+    {
+      "id":"Amber (transparent watery gold to rich gold)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Amethyst (transparent deep purple)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Chrysoberyl (transparent yellow-green to pale green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Coral (opaque crimson)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Garnet (transparent red, brown-green, or violet)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Jade (translucent light green, deep green , or white)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Jet (opaque deep black)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Pearl (opaque lustrous white , yellow, or pink)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spinel (transparent red, red-brown, or deep green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Tourmaline (transparent pale green, blue, brown, or red)",
+      "type":"item",
+      "amount":1
+    }
+
+  ]
+}

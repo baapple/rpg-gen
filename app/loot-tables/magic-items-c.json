@@ -1,0 +1,172 @@
+{
+  "randomLoot":["items"],
+  "items":[
+    {
+      "id":"Potion of superior healing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spell scroll (4th level)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ammunition, +2",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of clairvoyance",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of diminution",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of gaseous form",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of frost giant strength",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of stone giant strength",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of heroism",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of invulnerability",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of mind reading",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Spell scroll (5th level)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Elixir of health",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Oil of etherealness",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Potion of fire giant strength",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Quaal's feather token",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Scroll of protection",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bag of beans",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bead of force",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Chime of opening",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Decanter of endless water",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Eyes of minute seeing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Folding boat",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Heward's handy haversack",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Horseshoes of speed",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Necklace of fireballs",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Periapt of health",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Sending stones",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

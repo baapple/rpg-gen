@@ -1,0 +1,10 @@
+{
+  "randomLoot":["items"],
+  "items":[
+    {
+      "id":"tbd",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

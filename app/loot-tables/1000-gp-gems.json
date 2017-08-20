@@ -1,0 +1,52 @@
+{
+  "randomLoot":["gems"],
+  "gems":[
+    {
+      "id":"Black opal (translucent dark green with black mottling and golden flecks)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Blue sapphire (transparent blue-white to medium blue)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Emerald (transparent deep bright green)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Fire opal (translucent fiery red)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Opal (translucent pale blue with green and golden mottling)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Star ruby (translucent ruby with white star-shaped center)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Star sapphire (translucent blue sapphire with white star-shaped center)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Yellow sapphire (transparent fier y yellow or yellow green)",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

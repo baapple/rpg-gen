@@ -1,0 +1,52 @@
+{
+  "randomLoot":["art"],
+  "art":[
+    {
+      "id":"Jeweled gold crown",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Jeweled platinum ring",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Small gold statuette set with rubies",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gold cup set with emeralds",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gold jewelry box with platinum filigree",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Painted gold child's sarcophagus",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Jade game board with solid gold playing pieces",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bejeweled ivory drinking horn with gold filigree",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

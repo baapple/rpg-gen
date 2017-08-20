@@ -1,0 +1,64 @@
+{
+  "randomLoot":["art"],
+  "art":[
+    {
+      "id":"Gold ring set with bloodstones",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Carved ivory statuette",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Large gold bracelet",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Silver necklace with a gemstone pendant",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bronze crown",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Silk robe with gold embroidery",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Large well-made tapestry",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Brass mug with jade inlay",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Box of turquoise animal figurines",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gold bird cage with electrum filigree",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

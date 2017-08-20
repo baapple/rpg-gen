@@ -1,0 +1,64 @@
+{
+  "randomLoot":["art"],
+  "art":[
+    {
+      "id":"Silver chalice set with moonstones",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Silver-plated steellongsword with jet set in hilt",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Carved harp of exotic wood with ivory inlay and zircon gems",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Small gold idol",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gold dragon comb set with red garnets as eyes",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bottle stopper cork embossed with gold leaf and set with amethysts",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ceremonial electrum dagger with a black pearl in the pommel",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Silver and gold brooch",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Obsidian statuette with gold fittings and inlay",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Painted gold war mask",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

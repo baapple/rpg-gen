@@ -1,0 +1,64 @@
+{
+  "randomLoot":["art"],
+  "art":[
+    {
+      "id":"Fine gold chain set with a fire opal",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Old masterpiece painting",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Embroidered silk and velvet mantle set with numerous moonstones",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Platinum bracelet set with a sapphire",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Embroidered glove set with jewel chips",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Jeweled anklet",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gold music box",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gold circlet set with four aquamarines",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Eye patch with a mock eye set in blue sapphire and moonstone",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"A necklace string of small pink pearls",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

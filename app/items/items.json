@@ -1,0 +1,49 @@
+[
+  {
+    "name":"Dagger",
+    "type":"weapon",
+    "worth":2
+  },
+
+  {
+    "name":"Leather Armor",
+    "type":"armor",
+    "worth":10
+  },
+
+  {
+    "name":"Potion of Healing",
+    "type":"potion",
+    "worth":50
+  },
+
+  {
+    "name":"Scimitar",
+    "type":"weapon",
+    "worth":15
+  },
+
+  {
+    "name":"Full Plate",
+    "type":"armor",
+    "worth":250
+  },
+
+  {
+    "name":"Gold",
+    "type":"misc",
+    "worth":1
+  },
+
+  {
+    "name":"Silver",
+    "type":"misc",
+    "worth":0.1
+  },
+
+  {
+    "name":"Platinum",
+    "type":"misc",
+    "worth":10
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "randomLoot":["artObjects", "magicItems"],
+
+  "staticLoot": [
+    {
+      "id":"gp",
+      "type":"item",
+      "amount":"12 d 6 x 1000"
+    },
+
+    {
+      "id":"pp",
+      "type":"item",
+      "amount":"8 d 6 x 1000"
+    }
+  ],
+
+  "artObjects": [
+    {
+      "id":"nothing",
+      "type":"item",
+      "amount":0
+    },
+
+    {
+      "id":"1000-gp-gems",
+      "type":"table",
+      "amount":"3 d 6"
+    },
+
+    {
+      "id":"2500-gp-art",
+      "type":"table",
+      "amount":"1 d 10"
+    },
+
+    {
+      "id":"7500-gp-art",
+      "type":"table",
+      "amount":"1 d 4"
+    },
+
+    {
+      "id":"5000-gp-gems",
+      "type":"table",
+      "amount":"1 d 8"
+    }
+  ],
+
+  "magicItems": [
+    {
+      "id":"nothing",
+      "type":"item",
+      "amount":0
+    },
+
+    {
+      "id":"magic-items-c",
+      "type":"table",
+      "amount":"1 d 8"
+    },
+
+    {
+      "id":"magic-items-d",
+      "type":"table",
+      "amount":"1 d 6"
+    },
+
+    {
+      "id":"magic-items-e",
+      "type":"table",
+      "amount":"1 d 6"
+    },
+
+    {
+      "id":"magic-items-g",
+      "type":"table",
+      "amount":"1 d 4"
+    },
+
+    {
+      "id":"magic-items-h",
+      "type":"table",
+      "amount":"1 d 4"
+    },
+
+    {
+      "id":"magic-items-i",
+      "type":"table",
+      "amount":"1 d 4"
+    }
+  ]
+}

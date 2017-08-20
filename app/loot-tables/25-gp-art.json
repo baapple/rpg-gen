@@ -1,0 +1,64 @@
+{
+  "randomLoot":["art"],
+  "art":[
+    {
+      "id":"Silver ewer",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Carved bone statuette",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Small gold bracelet",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cloth-of-gold vestments",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Black velvet mask stitched with silver thread",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Copper chalice with silver filigree",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Pair of engraved bone dice",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Small mirror set in a painted wooden frame",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Embroidered silk handkerchief",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gold locket with a painted portrait inside",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}

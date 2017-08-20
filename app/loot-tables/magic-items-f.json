@@ -1,0 +1,364 @@
+{
+  "randomLoot":["items"],
+  "items":[
+    {
+      "id":"Weapon, +1",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Shield, +1",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Sentinel shield",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Amulet of proof against detection and location",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Boots of elvenkind",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Boots of striding and springing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bracers of archery",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Brooch of shielding",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Broom of flying",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cloak of elvenkind",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Cloak of protection",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gauntlets of ogre power",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Hat of disguise",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Javelin of lightning",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Pearl of power",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Rod of the pact keeper, +1",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Slippers of spider climbing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Staff of the adder",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Staff of the python",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Sword of vengeance",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Trident of fish command",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of magic missiles",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of the war mage, +1",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wand of web",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Weapon of warning",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Adamantine armor (chain mail)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Adamantine armor (chain shirt)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Adamantine armor (scale mail)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bag of tricks (gray)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bag of tricks (rust)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Bag of tricks (tan)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Boots of the winterlands",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Circlet of blasting",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Deck of illusions",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Eversmoking bottle",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Eyes of charming",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Eyes of the eagle",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Figurine of wondrous power (silver raven)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gem of brightness",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gloves of missile snaring",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gloves of swimming and climbing",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Gloves of thievery",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Headband of intellect",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Helm of telepathy",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Instrument of the bards (Doss lute)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Instrument of the bards (Fochlucan bandore)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Instrument of the bards (Mac-Fuimidh cittern)",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Medallion of thoughts",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Necklace of adaptation",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Periapt of wound closure",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Pipes of haunting",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Pipes of the sewers",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of jumping",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of mind shielding",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of warmth",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Ring of water walking",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Quiver of Ehlonna",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Stone of good luck",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Wind fan",
+      "type":"item",
+      "amount":1
+    },
+
+    {
+      "id":"Winged boots",
+      "type":"item",
+      "amount":1
+    }
+  ]
+}
